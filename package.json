@@ -1,0 +1,30 @@
+{
+  "name": "leonard",
+  "version": "1.0.0",
+  "description": "Leonard Ekenekiso portfolio site",
+  "main": "index.js",
+  "scripts": {
+    "test": "portfolio, leonard, leon, ekenekiso, ekene",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tetranyble/leonard.git"
+  },
+  "keywords": [
+    "portfolio",
+    "leonard",
+    "leon",
+    "ekenekiso",
+    "ekene"
+  ],
+  "author": "Leonard Ekenekiso Ugbanawaji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tetranyble/leonard/issues"
+  },
+  "homepage": "https://github.com/Tetranyble/leonard#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
